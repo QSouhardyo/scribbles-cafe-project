@@ -3,7 +3,7 @@ import React from 'react';
 const Navbar = () => {
     return (
         <div>
-            <div className="navbar  shadow-sm">
+            <div className="navbar shadow-sm">
                 <div className="flex-1">
                     <a className="btn btn-ghost text-xl">daisyUI</a>
                 </div>
